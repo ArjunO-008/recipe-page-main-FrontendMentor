@@ -5,13 +5,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -20,7 +20,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ![](./screenshot.jpg)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click Me](https://www.frontendmentor.io/solutions/recipe-page-main-frontendmentor-pfw5npq66k)
 - Live Site URL: [Click Me](https://arjuno-008.github.io/recipe-page-main-FrontendMentor/)
 
 ## Author
